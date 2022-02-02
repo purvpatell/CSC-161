@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-    public class StockPulsCommission {
+    public class StockPlusCommission {
         public static void main(String[] args) {
 
             // x is number of shares
@@ -32,7 +32,7 @@ import java.util.Scanner;
             double c = a + b;  //c is addition for total amount pain with commission
 
             //display all answer
-            System.out.println("a= " + a + "\nb= " + b + "\nc= " + c);
+            System.out.println("a = " + a + "\nb = " + b + "\nc = " + c);
 
         }
     }
